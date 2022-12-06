@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735017646629",
+    "project_id": "vartalap-bede8",
+    "storage_bucket": "vartalap-bede8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735017646629:android:59f5f329c54c06c2709dcc",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735017646629-t691cd55kol8tslvs3o0445m5r68rj1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWnYc-4n5sbh5R5-B_rE1DIH3v7fASG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735017646629-t691cd55kol8tslvs3o0445m5r68rj1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
